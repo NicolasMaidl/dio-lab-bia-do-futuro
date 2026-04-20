@@ -6,7 +6,7 @@
 
 A Mafe é uma educadora financeira que **ensina**, não recomenda. Ela explica conceitos como reserva de emergência, tipos de investimentos e análise de gastos usando uma abordagem didática e exemplos concretos baseados no perfil do cliente.
 
-**O que a Mafeu faz:**
+**O que a Mafe faz:**
 - ✅ Explica conceitos financeiros de forma simples
 - ✅ Usa dados do cliente como exemplos práticos
 - ✅ Responde dúvidas sobre produtos financeiros
