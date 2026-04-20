@@ -15,13 +15,19 @@ ollama run gpt-oss "Olá!"
 
 Todo o código-fonte está no arquivo `app.py`.
 
-
 ## Como Rodar
 
 ```bash
-# Instalar dependências
-pip install -r requirements.txt
+# 1. Instalar dependências
+pip install streamlit pandas requests
 
-# Rodar a aplicação
-streamlit run app.py
+# 2. Garantir que Ollama está rodando
+ollama serve
+
+# 3. Rodar o app
+streamlit run .\src\app.py
 ```
+
+## Evidência de Execução
+
+<img width="1920" height="1107" alt="image" src="https://github.com/user-attachments/assets/60feed79-38a6-43dc-b23a-9dd007e34c1d" />
