@@ -117,7 +117,6 @@ def perguntar(msg):
     return r.json()['response']
 
 # ============ INTERFACE ============
-# 1. CSS para centralizar o título
 st.markdown(
     """
     <style>
@@ -129,11 +128,9 @@ st.markdown(
     unsafe_allow_html=True
 )
 
-# 2. Título usando Markdown com a classe CSS ou HTML direto
 st.markdown("<h1 style='text-align: center;'>👩‍🏫 Mafe 🌟</h1>", unsafe_allow_html=True)
 st.markdown("<p style='text-align: center; font-size: 1.2em;'>Modelo de Apoio Financeiro Educacional</p>", unsafe_allow_html=True)
 
-# Divisor visual opcional para organizar
 st.divider()
 
 if pergunta := st.chat_input("Sua dúvida sobre finanças..."):
