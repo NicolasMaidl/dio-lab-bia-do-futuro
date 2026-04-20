@@ -30,5 +30,5 @@ streamlit run .\src\app.py
 
 ## Evidência de Execução
 <div align="center">
-  <img width="650" height="888" alt="Image" src="https://github.com/user-attachments/assets/bfecbae0-b76a-461e-b3fe-c6e4ec26be73" width="500px">
+  <img width="654" height="850" alt="Image" src="https://github.com/user-attachments/assets/e45104ac-15e7-4079-94f5-bed53b58f7ba" width="500px">
 </div>
